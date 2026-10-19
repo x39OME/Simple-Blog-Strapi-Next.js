@@ -1,0 +1,1 @@
+# Simple-Blog-Strapi-Next.js
