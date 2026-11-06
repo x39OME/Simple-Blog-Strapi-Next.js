@@ -15,3 +15,5 @@
 - npm run dev
 - cd ..
 - npx create-strapi@latest backend
+- npm run build
+- npm run develop
