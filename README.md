@@ -10,4 +10,4 @@
 
 ## Prerequisites
 - create new fil name 'blog' open Terminal
-- npx create-next-app@latest
+- npx create-next-app@latest frontend
